@@ -1,4 +1,4 @@
-### Olá! 
+### Olá! 😊
 ### Eu me chamo Mylle Braga
 <hr>
 
@@ -17,6 +17,17 @@
   <img align="center" alt="Mylle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mylle-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mylle-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Mylle-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Mylle-Crystal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original-wordmark.svg" />
+  <img align="center" alt="Mylle-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />        
+  <img align="center" alt="Mylle-Maria-DB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
+  <img align="center" alt="Mylle-SQL-Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+  <img align="center" alt="Mylle-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Mylle-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Mylle-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+          
+               
+          
           
 </div>
 <hr>
@@ -31,5 +42,5 @@
 <hr>
 
 - 📚 Sistamas da Informação(IFBA)
-- 👨🏽‍🎓 Técnico em Informática(IFBA)
-- 🌱 Atualmente estou de dedicando ao Data Science
+- 👩‍🎓 Técnico em Informática(IFBA)
+- 🌐 Atualmente estou de dedicando ao Data Science
