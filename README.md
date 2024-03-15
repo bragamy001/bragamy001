@@ -1,4 +1,5 @@
-### Olá! Eu me chamo Mylle Braga
+### Olá! 
+### Eu me chamo Mylle Braga
 <hr>
 
 <div>
@@ -15,6 +16,8 @@
   <img align="center" alt="Mylle-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mylle-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mylle-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mylle-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+          
 </div>
 <hr>
   
