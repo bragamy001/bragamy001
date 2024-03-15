@@ -1,5 +1,5 @@
-### Olá! 😊
-### Eu me chamo Mylle Braga
+### Hi! 😊
+### I'm Mylle Braga
 <hr>
 
 <div>
@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragamy001&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+
+## Languages and Tools ⚙
 <div style="display: inline_block"><br>
   <img align="center" alt="Mylle-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Mylle-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -41,6 +43,6 @@
 </div>
 <hr>
 
-- 📚 Sistamas da Informação(IFBA)
+- 💻 Sistamas da Informação(IFBA)
 - 👩‍🎓 Técnico em Informática(IFBA)
 - 🌐 Atualmente estou de dedicando ao Data Science
