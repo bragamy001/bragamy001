@@ -43,6 +43,6 @@
  
  ## My Learning Journey 💡 
 
-- 💻 Sistemas da Informação (IFBA)
-- 👩‍🎓 Técnico em Informática (IFBA)
-- 🌐 Atualmente estou me dedicando ao Data Science
+- 💻 Information Systems (IFBA)
+- 👩‍🎓 IT Technician (IFBA)
+- 🌐 I am currently dedicating myself to Data Science
