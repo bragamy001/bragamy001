@@ -30,6 +30,7 @@
           
 </div>
 <hr>
+✔️✔️✔️![CheckGIF](https://github.com/user-attachments/assets/24584dab-2b80-4393-bcc8-987ce0674a87)
 
 ## Talk to Me 📲
 <div> 
@@ -43,6 +44,7 @@
  
  ## My Learning Journey 💡 
 
-- 💻 Information Systems (IFBA)
+- 💻 Information Systems (Uniasselvi)
+- 👩‍🎓 Information Systems (IFBA)
 - 👩‍🎓 IT Technician (IFBA)
 - 🌐 I am currently dedicating myself to Data Science
