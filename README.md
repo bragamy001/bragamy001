@@ -48,5 +48,6 @@
 - 👩‍🎓 IT Technician (IFBA)
 - 🌐 I am currently dedicating myself to Data Science
 
-![Snake animation](https://github.com/bragamy001/bragamy/raw/main/github-snake.svg)
+  
+![Snake animation](https://github.com/bragamy001/bragamy001/raw/main/github-snake.svg)
 
