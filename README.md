@@ -52,7 +52,7 @@ Especialista em unir **Engenharia de Software** e **Ciência de Dados**. Atualme
 <hr>
 
 ## My Portfolio 🌐
-🚀 Confira meu portfólio completo em: **[mbraga.netlify.app](https://mbraga.netlify.app)**
+🚀 Confira meu portfólio completo em: **[myllebraga.netlify.app](https://myllebraga.netlify.app)**
 
 ---
 <p align="center">Made with ❤️ by Mylle Braga</p>
