@@ -24,21 +24,20 @@ Especialista em unir **Engenharia de Software** e **Ciência de Dados**. Atualme
 ## Languages and Tools ⚙️
 
 <div style="display: inline-block">
-  <img align="center" alt="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  <img align="center" alt="SQL Server" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-  <img align="center" alt="Oracle" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PostgreSQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="MariaDB" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
+  <img align="center" alt="SQL Server" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="Oracle" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   
-  <img align="center" alt="Figma" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Figma" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+  <img align="center" alt="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <hr>
